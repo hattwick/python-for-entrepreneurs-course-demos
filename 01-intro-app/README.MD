@@ -103,7 +103,27 @@ Run your project.
     env/bin/pserve development.ini
 
 (talkpython1) server:talkpython phil$ tree
+.
+├── CHANGES.txt
+├── MANIFEST.in
+├── README.txt
+├── development.ini
+├── my_web_app
+│   ├── __init__.py
+│   ├── static
+│   │   ├── pyramid-16x16.png
+│   │   ├── pyramid.png
+│   │   └── theme.css
+│   ├── templates
+│   │   ├── layout.pt
+│   │   └── mytemplate.pt
+│   ├── tests.py
+│   └── views.py
+├── production.ini
+├── pytest.ini
+└── setup.py
 
+3 directories, 15 files
 ```
 
 # Helpful Links
