@@ -49,7 +49,24 @@ The following NEW packages will be INSTALLED:
     zope.deprecation:  4.2.0-py36_0 
     zope.interface:    4.3.3-py36_0 
 
-Proceed ([y]/n)? 
+Proceed ([y]/n)? y
+
+repoze.lru-0.6 100% |################################| Time: 0:00:00 599.19 kB/s
+translationstr 100% |################################| Time: 0:00:00   3.40 MB/s
+venusian-1.0-p 100% |################################| Time: 0:00:00   4.58 MB/s
+webob-1.6.1-py 100% |################################| Time: 0:00:00   3.33 MB/s
+zope-1.0-py36_ 100% |################################| Time: 0:00:00   2.97 MB/s
+pastedeploy-1. 100% |################################| Time: 0:00:00  19.46 MB/s
+zope.deprecati 100% |################################| Time: 0:00:00  16.36 MB/s
+zope.interface 100% |################################| Time: 0:00:00   5.54 MB/s
+pyramid-1.5.7- 100% |################################| Time: 0:00:00   5.48 MB/s
+#
+# To activate this environment, use:
+# > source activate talkpython1
+#
+# To deactivate an active environment, use:
+# > source deactivate
+#
 
 ```
 
