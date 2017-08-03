@@ -15,7 +15,7 @@ As the first of the demos, a bit of setup is required here.
 These setup commands will be helpful.  These particular examples were built on Mac OSX with Python 3.6
 * ```pip3 install --upgrade pip``` to upgrade your version of pip.
 * ```pip3 install cookiecutter -U --user``` to add the package dependency manager used in this course
-* ```et-Help <cmdlet namGe>``` more commands.
+* ```python3 -m venv --copies .env``` Virtual environment setup with .env flag for Pycharm venv awareness on OSX.
 
 
 
